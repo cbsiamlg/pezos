@@ -14,7 +14,7 @@
     "@analytics/google-tag-manager": "^0.5.5",
     "@analytics/segment": "^1.1.4",
     "@apollo/server": "^4.7.0",
-    "@aws-sdk/client-kms": "^3.410.0",
+    "@aws-sdk/client-kms": "^3.622.0",
     "@clickhouse/client": "^0.2.7",
     "@dqbd/tiktoken": "^1.0.6",
     "@hookform/resolvers": "^3.3.1",
