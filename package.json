@@ -131,7 +131,7 @@
     "@nx/linter": "16.6.0",
     "@nx/node": "16.6.0",
     "@nx/react": "16.6.0",
-    "@nx/rollup": "16.6.0",
+    "@nx/rollup": "19.8.2",
     "@nx/storybook": "^16.6.0",
     "@nx/webpack": "16.6.0",
     "@nx/workspace": "16.6.0",
